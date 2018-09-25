@@ -1,0 +1,16 @@
+{
+  "name": "inline-vcard-bug-bot",
+  "version": "1.0.0",
+  "description": "simple Telegram bot for demonstrating bug DrKLO/Telegram#1482 in the android app",
+  "main": "bot.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acran/InlineVcardBug_bot.git"
+  },
+  "author": "Roman Anasal <roman.anasal@academyconsult.de>",
+  "license": "ISC",
+  "dependencies": {
+    "telegram-bot-api": "^1.2.1"
+  },
+  "homepage": "https://github.com/acran/InlineVcardBug_bot#readme"
+}

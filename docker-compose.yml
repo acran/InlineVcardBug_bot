@@ -1,0 +1,4 @@
+bot:
+  build: .
+  environment:
+    - TG_BOT_TOKEN
